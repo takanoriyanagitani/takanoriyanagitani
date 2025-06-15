@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,bash,c,cs,cpp,fortran,go,java,lua,perl,ps,php,powershell,py,ruby,rust,swift,ts,wasm" />
+    <img src="https://skillicons.dev/icons?i=js,bash,c,cs,cpp,fortran,go,java,lua,perl,php,powershell,py,ruby,rust,swift,ts,wasm" />
   </a>
 </p>
 
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cmake,eclipse,emacs,git,github,gitlab,gmail,jest,latex,md,matlab,npm,octave,qt,regex,stackoverflow,selenium,vim,visualstudio,vscode,yarn" />
+    <img src="https://skillicons.dev/icons?i=cmake,eclipse,emacs,git,github,gitlab,gmail,jest,latex,md,matlab,npm,octave,qt,regex,stackoverflow,selenium,vim,visualstudio,vscode,yarn,ps" />
   </a>
 </p>
 
