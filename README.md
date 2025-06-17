@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 	
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=takanoriyanagitani&show_icons=true&theme=radical)
 	
-![GitHub Streak](https://streak-stats.demolab.com?user=takanoriyanagitani&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=takanoriyanagitani)](https://git.io/streak-stats)
 
 ## 🏆 Github Profile Trophy 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-ten.vercel.app/?username=takanoriyanagitani&column=5&theme=radical&margin-w=15&margin-h=15" alt="takanoriyanagitani" /></a></p>
