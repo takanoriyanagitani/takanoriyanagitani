@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,bash,c,cs,cpp,fortran,go,java,lua,perl,php,powershell,py,ruby,rust,swift,ts,wasm" />
+    <img src="https://skillicons.dev/icons?i=rust,go,swift,wasm,haskell,js,bash,c,cs,cpp,fortran,java,lua,perl,php,powershell,py,ruby,ts" />
   </a>
 </p>
 
